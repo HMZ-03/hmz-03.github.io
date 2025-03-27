@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Minzhe Hu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,12 +10,12 @@ redirect_from:
 A Ph.D of [DAMS](https://en.dams.ustc.edu.cn/People/list.htm) (DAta Mining for Seismology) group in USTC.
 
 Education
-======
+------
 * 2022/09-current: Graduate student in Geophysics, School of Earth and Space Sciences, University of Science and Technology of China; Start Ph.D. in 2024/09
 * 2018/09-2022/06: B.S. in Geophysics, School of Gifted Young, University of Science and Technology of China
 
 Publications
-======
+------
 [1] **Hu, M.**, and Z. Li* (2024). DASPy: A Python Toolbox for DAS Seismology, Seismol. Res. Lett.,  95 (5): 3055–3066. [LINK](https://pubs.geoscienceworld.org/ssa/srl/article/95/5/3055/645865/DASPy-A-Python-Toolbox-for-DAS-Seismology)
 
 Research interests
