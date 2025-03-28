@@ -26,7 +26,8 @@ Research interests
 
 Awards
 ------
-* 2024 National Scholarship
+* 2024 National Scholarship, Ministry of Education, China
+* 2024 Outstanding Student Presentation Award, AGU24, Washington, DC
 * 2024 Outstanding Student Paper, CGU Annual Meeting, Xiamen
 * 2024 Outstanding Flash Presentation, DAS T&A Conference, Nanjing
 * 2022-2024 First-Class Postgraduate Scholarships, USTC
