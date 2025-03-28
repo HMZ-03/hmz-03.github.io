@@ -8,4 +8,4 @@ date: 2024-11-22
 venue: 'Distributed Acoustic Sensing Technology and Application Conference'
 ---
 
-The presentation received the Outstanding Flash Presentation at Distributed Acoustic Sensing Technology and Application Conference.
+The presentation received the Outstanding Flash Presentation at *Distributed Acoustic Sensing Technology and Application Conference*.
