@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Minzhe Hu"
+title                    : "Minzhe Hu (胡敏哲)"
 title_separator          : "-"
 name                     : "Minzhe Hu"
 description              : &description "personal description"

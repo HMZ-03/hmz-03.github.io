@@ -11,7 +11,7 @@ A Ph.D of [DAMS](https://en.dams.ustc.edu.cn/People/list.htm) (DAta Mining for S
 
 Education
 ------
-* 2022/09-current: Graduate student in Geophysics, School of Earth and Space Sciences, University of Science and Technology of China; Start Ph.D. in 2024/09
+* 2022/09-current: Graduate student in Geophysics, School of Earth and Space Sciences, University of Science and Technology of China; Start Ph.D. in 2024/09. Advisor: [Zefeng Li](https://ess.ustc.edu.cn/2022/0929/c32208a572141/page.htm)
 * 2018/09-2022/06: B.S. in Geophysics, School of Gifted Young, University of Science and Technology of China
 
 Publications
