@@ -1,10 +1,10 @@
 ---
-permalink: /link/
+layout: archive
 title: "Link"
+permalink: /link/
 author_profile: true
 redirect_from: 
-  - /link/
-  - /link.html
+  - /link
 ---
 
 Packages and code
