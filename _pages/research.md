@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Reseach"
-permalink: /Reseach/
+title: "Research"
+permalink: /Research/
 author_profile: true
 redirect_from: 
-  - /Reseach
+  - /Research
 ---
 
 Research interests: distributed acoustic sensing (DAS)
