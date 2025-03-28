@@ -13,7 +13,7 @@ title                    : "Minzhe Hu"
 title_separator          : "-"
 name                     : "Minzhe Hu"
 description              : &description "personal description"
-url                      : "https://hmz-03.github.io/"
+url                      : "https://hmz-03.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HMZ-03/hmz-03.github.io"
 
