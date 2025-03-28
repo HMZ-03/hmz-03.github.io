@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Link"
+title: "Related links"
 permalink: /link/
 author_profile: true
 redirect_from: 
@@ -14,6 +14,6 @@ Packages and code
 
 Institutions and organizations
 ------
-* [University of Science and Technology of China](http://en.ustc.edu.cn/)  
+* [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/)  
 * [School of Earth and Space Sciences, USTC](https://en.ess.ustc.edu.cn/main.htm)  
 * [DAta Mining for Seismology (DAMS) group](https://en.dams.ustc.edu.cn/main.htm)
