@@ -27,16 +27,15 @@ author:
   location         : "Hefei, Anhui"
   employer         : "USTC"
   email            : "hmz2018@mail.ustc.edu.cn"
-  WeChat           : "[WeChat QR Code](../images/Wechat_QRcode.png)"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=TuaBJIgAAAAJ&hl=zh-CN"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3080-1426"
   researchgate     : "https://www.researchgate.net/profile/Minzhe-Hu?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
-  linkedin         : "https://www.linkedin.com/in/minzhe-hu-25131725b/"
+  linkedin         : "minzhe-hu-25131725b"
 
   # Repositories and software development
-  github           : "https://github.com/HMZ-03" 
+  github           : "HMZ-03" 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
