@@ -16,7 +16,7 @@ Education
 
 Publications
 ------
-[1] **Hu, M.**, and Z. Li* (2024). DASPy: A Python Toolbox for DAS Seismology, Seismol. Res. Lett.,  95 (5): 3055–3066. [LINK](https://pubs.geoscienceworld.org/ssa/srl/article/95/5/3055/645865/DASPy-A-Python-Toolbox-for-DAS-Seismology)
+[1] **Hu, M.**, and Z. Li* (2024). DASPy: A Python Toolbox for DAS Seismology, Seismol. Res. Lett.,  95 (5): 3055–3066. [[LINK]](https://pubs.geoscienceworld.org/ssa/srl/article/95/5/3055/645865/DASPy-A-Python-Toolbox-for-DAS-Seismology)
 
 Research interests
 ------
