@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Minzhe Hu / Home"
 title_separator          : "-"
 name                     : "Minzhe Hu"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   name             : "Minzhe Hu"
   location         : "Hefei, Anhui"
   employer         : "University of Science and Technology of China"
-  uri              : "https://en.ustc.edu.cn/"
+  uri              : "" # https://en.ustc.edu.cn/
   email            : "hmz2018@mail.ustc.edu.cn"
 
   # Academic websites
