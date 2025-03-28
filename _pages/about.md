@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Minzhe Hu"
+title: "Minzhe Hu (胡敏哲)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,7 +20,7 @@ Publications
 
 Research interests
 ------
-1. Data processing software for distributed acoustic sensing (https://github.com/HMZ-03/DASPy/tree/main);
+1. Data processing software for distributed acoustic sensing [[LINK]](https://github.com/HMZ-03/DASPy/tree/main);
 2. Source detection, location and characteristic based on distributed acoustic sensing;
 3. Fault detection based on distributed acoustic sensing.
 
@@ -37,12 +37,8 @@ Awards
 
 Contact
 ------
-Department of Earth and Space Sciences
-
-University of Science and Technology of China
-
-96 Jinzhai RD, Hefei, Anhui 230026
-
-P. R. China
-
+Department of Earth and Space Sciences  
+University of Science and Technology of China  
+96 Jinzhai RD, Hefei, Anhui 230026  
+P. R. China  
 Teaching and Administration Building, ROOM 1003
