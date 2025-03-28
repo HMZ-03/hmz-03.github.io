@@ -38,7 +38,11 @@ Awards
 Contact
 ------
 Department of Earth and Space Sciences
+
 University of Science and Technology of China
+
 96 Jinzhai RD, Hefei, Anhui 230026
+
 P. R. China
-Teaching and Research Building, ROOM 1003
+
+Teaching and Administration Building, ROOM 1003
