@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-A Ph.D of [DAMS](https://en.dams.ustc.edu.cn/People/list.htm) (DAta Mining for Seismology) group in USTC. You can find my CV here: [Curriculum Vitae](../assets/CV_Hu_Minzhe.pdf). [WeChat QR Code](../images/Wechat_QRcode.png)
+A Ph.D of [DAMS](https://en.dams.ustc.edu.cn/People/list.htm) (DAta Mining for Seismology) group in USTC. You can find my WeChat here: [WeChat QR Code](../images/Wechat_QRcode.png)
 
 Education
 ------
