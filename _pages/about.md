@@ -18,7 +18,8 @@ Education
 
 Publications
 ------
-[1] **Hu, M.**, and Z. Li* (2024). DASPy: A Python Toolbox for DAS Seismology, Seismol. Res. Lett.,  95 (5): 3055–3066. [[LINK]](https://pubs.geoscienceworld.org/ssa/srl/article/95/5/3055/645865/DASPy-A-Python-Toolbox-for-DAS-Seismology)
+[2] Meng, L.*, J. Xu, Z. Fan, **M. Hu**, S. Liu, Y. He, Y. Zhou, D. Weng, and Y. Wu (2025). KairoMind: Towards Knowledge-driven Analysis of Domain Sensor Data Based on Text Documents, *The ACM Symposium on User Interface Software and Technology*, Busan, Korea, Sept. 2025, *submitted*.
+[1] **Hu, M.**, and Z. Li* (2024). DASPy: A Python Toolbox for DAS Seismology, *Seismol. Res. Lett.*,  95 (5): 3055–3066. [[LINK]](https://pubs.geoscienceworld.org/ssa/srl/article/95/5/3055/645865/DASPy-A-Python-Toolbox-for-DAS-Seismology)
 
 Research interests
 ------
