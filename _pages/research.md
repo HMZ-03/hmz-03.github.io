@@ -22,6 +22,12 @@ Using DAS to detect engineering signals for tunnel safety warning.
 
 Related presentation: [DAS T&A Conference](/publications/2024-12-10-EngineeringDetection-DAST&A)
 
+Fault zone detection
+------
+Using DAS to detect fault zones for civil engineering.
+
+Related paper: [Rapid Fault Detection on Terrestrial and Submarine Environments with Fiber-Optic Sensing](/publications/2025-04-29-FaultDetection-SB)
+
 Whale song monitoring
 ------
 Detecting and analyzing whale song signals by deep clustering on DAS data.
