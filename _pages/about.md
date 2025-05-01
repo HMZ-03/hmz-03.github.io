@@ -18,9 +18,12 @@ Education
 
 Publications
 ------
-Meng, L., J. Xu, Z. Fan, **M. Hu**, S. Liu, Y. He, Y. Zhou, D. Weng, and Y. Wu (2025). KairoMind: Towards Knowledge-driven Analysis of Domain Sensor Data Based on Text Documents, *The ACM Symposium on User Interface Software and Technology*, Busan, Korea, Sept. 2025, *submitted*.
 
 **Hu, M.**, and Z. Li\* (2025). Rapid Fault Detection on Terrestrial and Submarine Environments with Fiber-Optic Sensing. *Science Bulletin*, *submitted*.
+
+Meng, L., J. Xu, Z. Fan, **M. Hu**, S. Liu, Y. He, Y. Zhou, D. Weng, and Y. Wu (2025). KairoMind: Towards Knowledge-driven Analysis of Domain Sensor Data Based on Text Documents, *The ACM Symposium on User Interface Software and Technology*, Busan, Korea, Sept. 2025, *submitted*.
+
+Han, X, **M. Hu**, X. Cui, and Z. Li\* (2025). Constraining InSight’s 2.4 Hz seismic noise from machine learning experiments, *in preparation*.
 
 [1] **Hu, M.**, and Z. Li\* (2024). DASPy: A Python Toolbox for DAS Seismology, *Seismol. Res. Lett.*,  95 (5): 3055–3066. [[LINK]](https://pubs.geoscienceworld.org/ssa/srl/article/95/5/3055/645865/DASPy-A-Python-Toolbox-for-DAS-Seismology)
 
