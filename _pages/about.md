@@ -19,13 +19,13 @@ Education
 Publications
 ------
 
-Manuscripts in process:
+<u>Manuscripts in process:</u>
 
 **Hu, M.**, and Z. Li\* (2025). Rapid Fault Detection on Terrestrial and Submarine Environments with Fiber-Optic Sensing (in Chinese). *submitted*. \[胡敏哲, 李泽峰. 基于分布式光纤振动传感的陆地和海底断层快速探测. *已提交*\].
 
 Han, X, **M. Hu**, X. Cui, and Z. Li\* (2025). Constraining InSight’s 2.4 Hz seismic noise from machine learning experiments, *in preparation*.
 
-Published papers:
+<u>Published papers:</u>
 
 [1] **Hu, M.**, and Z. Li\* (2024). DASPy: A Python Toolbox for DAS Seismology, *Seismol. Res. Lett.*,  95 (5): 3055–3066. [[LINK]](https://pubs.geoscienceworld.org/ssa/srl/article/95/5/3055/645865/DASPy-A-Python-Toolbox-for-DAS-Seismology)
 
