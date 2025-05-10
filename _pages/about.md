@@ -19,7 +19,7 @@ Education
 Publications
 ------
 
-**Hu, M.**, and Z. Li\* (2025). Rapid Fault Detection on Terrestrial and Submarine Environments with Fiber-Optic Sensing. *Science Bulletin*, *submitted*.
+**Hu, M.**, and Z. Li\* (2025). Rapid Fault Detection on Terrestrial and Submarine Environments with Fiber-Optic Sensing (in Chinese). *submitted*. \[胡敏哲, 李泽峰. 基于分布式光纤振动传感的陆地和海底断层快速探测. *已提交*\].
 
 Han, X, **M. Hu**, X. Cui, and Z. Li\* (2025). Constraining InSight’s 2.4 Hz seismic noise from machine learning experiments, *in preparation*.
 
