@@ -21,7 +21,7 @@ Publications
 
 <u>Manuscripts in process:</u>
 
-**Hu, M.**, and Z. Li\* (2025). Rapid Fault Detection on Terrestrial and Submarine Environments with Fiber-Optic Sensing (in Chinese). *submitted*. \[胡敏哲, 李泽峰. 基于分布式光纤振动传感的陆地和海底断层快速探测. *已提交*\].
+**Hu, M.**, and Z. Li\* (2025). Rapid Fault Detection on Terrestrial and Submarine Environments with Fiber-Optic Sensing (in Chinese). *Chinese Science Bulletin, submitted, in revision*. \[胡敏哲, 李泽峰. 基于分布式光纤振动传感的陆地和海底断层快速探测. *科学通报, 在修*\].
 
 Han, X, **M. Hu**, X. Cui, and Z. Li\* (2025). Lander resonance in response to wind and marsquakes as possible origin of InSight's 2.4 Hz seismic noise, *submitted*.
 
