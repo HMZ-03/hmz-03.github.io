@@ -1,5 +1,5 @@
 ---
-title: "Rapid Fault Detection on Terrestrial and Submarine Environments with Fiber-Optic Sensing"
+title: "Rapid Fault Detection in Terrestrial and Submarine Environments with Fiber-Optic Sensing"
 collection: publications
 category: manuscripts
 permalink: /publications/2025-09-15-FaultDetection
@@ -7,7 +7,7 @@ excerpt: '**Minzhe Hu** and Zefeng Li\*'
 date: 2025-09-15
 venue: 'Chinese Science Bulletin-Chinese'
 paperurl: 'https://hmz-03.github.io/files/Hu,%20Li%20-%202025%20-%20Rapid%20fault%20detection%20on%20terrestrial%20and%20submarine%20environments%20with%20fiber-optic%20sensing.pdf'
-citation: 'Hu, M., & Li, Z. (2025). Rapid Fault Detection on Terrestrial and Submarine Environments with Fiber-Optic Sensing. Chinese Science Bulletin-Chinese, accepted. [胡敏哲, 李泽峰. 基于分布式光纤振动传感的陆地和海底断层快速探测. 科学通报, 接收]. (https://doi.org/10.1360/CSB-2025-0624).'
+citation: 'Hu, M., & Li, Z. (2025). Rapid Fault Detection in Terrestrial and Submarine Environments with Fiber-Optic Sensing. Chinese Science Bulletin-Chinese, accepted. [胡敏哲, 李泽峰. 基于分布式光纤振动传感的陆地和海底断层快速探测. 科学通报, 接收]. (https://doi.org/10.1360/CSB-2025-0624).'
 ---
 
 [[LINK]](https://www.sciengine.com/CSB/doi/10.1360/CSB-2025-0624)The spatial distribution of faults provides a critical basis for seismic hazard assessment, since the presence of faults directly reflect potential earthquake sources. Infrastructure and buildings located above or near active faults face heightened seismic risks, including severe structural damage from both static fault displacement and amplified ground shaking. Accurate and efficient fault detection is therefore an indispensable step for seismic hazard mitigation and for guiding civil engineering design. Conventional geological surveys, while effective, are often labor-intensive, time-consuming, and limited in urban or offshore environments. Seismic reflection imaging and tomography methods provide high-resolution subsurface characterization but are costly and difficult to implement at large scale. Consequently, there is a critical need for alternative approaches that are rapid, low-cost, and broadly applicable in both terrestrial and submarine settings.

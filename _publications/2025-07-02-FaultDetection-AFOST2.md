@@ -1,5 +1,5 @@
 ---
-title: "Rapid Fault Detection on Terrestrial and Submarine Environments with DAS"
+title: "Rapid Fault Detection in Terrestrial and Submarine Environments with DAS"
 collection: publications
 category: conferences
 permalink: /publications/2025-07-02-FaultDetection-AFOST2
