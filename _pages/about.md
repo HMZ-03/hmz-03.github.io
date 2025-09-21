@@ -21,7 +21,7 @@ Publications
 
 <u>Manuscripts in process:</u>
 
-Han, X, **M. Hu**, X. Cui, and Z. Li\* (2025). Lander resonance in response to wind and marsquakes as possible origin of InSight's 2.4 Hz seismic noise, *Geophys. Res. Lett., under review*.
+Han, X, **M. Hu**, X. Cui, and Z. Li\* (2025). Lander resonance in response to wind and marsquakes as possible origin of InSight's 2.4 Hz seismic noise, *in preparation*.
 
 <u>Published papers:</u>
 
