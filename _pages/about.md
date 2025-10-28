@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-A Ph.D of [DAMS](https://en.dams.ustc.edu.cn/People/list.htm) (DAta Mining for Seismology) group in USTC. I'm the author and maintainer of Python package [DASPy](https://pypi.org/project/DASPy-toolbox/).
+A Ph.D of [DAMS](https://en.dams.ustc.edu.cn/People/list.htm) (DAta Mining for Seismology) group in USTC. I'm the author and maintainer of Python package [DASPy](https://pypi.org/project/DASPy-toolbox/). I am also the founder of a startup company, Hefei Fibrain Intelligence Technology Co., Ltd. (合肥纤知智能科技有限公司).
 
 You can find my WeChat here: [QR Code](../images/Wechat_QRcode.png)
 
