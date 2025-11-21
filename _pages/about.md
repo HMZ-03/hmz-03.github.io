@@ -21,6 +21,8 @@ Publications
 
 <u>Manuscripts in process:</u>
 
+Hong, Heting\*, **M. Hu**, B. Wang, and N. Xiang (2025). DASView : A PyQt-Based Visualization Tool for Distributed Acoustic Sensing Data, *in preparation*.
+
 Han, X, **M. Hu**, X. Cui, and Z. Li\* (2025). Lander resonance in response to wind and marsquakes as possible origin of InSight's 2.4 Hz seismic noise, *in preparation*.
 
 <u>Published papers:</u>
