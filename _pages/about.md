@@ -47,7 +47,7 @@ Awards
 * 2024  Outstanding Student Presentation Award, AGU24, Washington, DC
 * 2024  Outstanding Student Paper, CGU Annual Meeting, Xiamen
 * 2024  Outstanding Flash Presentation, DAS T&A Conference, Nanjing
-* 2022-2024  First-Class Postgraduate Scholarships, USTC
+* 2022-2025  First-Class Postgraduate Scholarships, USTC
 * 2022  Outstanding Graduate, USTC
 * 2018  Outstanding Student Scholarships, USTC
 * 2018  Outstanding Freshman Scholarship, USTC
