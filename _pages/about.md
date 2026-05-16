@@ -21,17 +21,17 @@ Publications
 
 <u>Manuscripts in process:</u>
 
-Hong, H.\*, **M. Hu**, J. Liu, B. Wang, L. Lu, and N. Xiang (2025). DASView: A PyQt-Based Visualization Tool for Distributed Acoustic Sensing Data, *under review*.
+Han, X., **M. Hu**, X. Cui, and Z. Li\* (2026). Lander resonance in response to wind and marsquakes as possible origin of InSight's 2.4 Hz seismic noise. *under review*.
 
-Han, X., **M. Hu**, X. Cui, and Z. Li\* (2025). Lander resonance in response to wind and marsquakes as possible origin of InSight's 2.4 Hz seismic noise, *under review*.
+Pei, Z., **M. Hu**, S. Wang, Y. Fu, and Z. Li\* (2026). Deep Clustering of Distributed Acoustic Sensing Signals for Tunneling Monitoring. *in preparation*.
 
-Pei, Z., **M. Hu**, S. Wang, Y. Fu, and Z. Li\* (2025). Deep Clustering of Distributed Acoustic Sensing Signals for Tunneling Monitoring, *in preparation*.
-
-Li, C., **M. Hu**, G. Ye, S. Wang, Y. Fu, Z. Pei, Z. Li (2025). 2D Near-Surface Shear Velocity Structure in Guangzhou Metro Tunneling Area from Distributed Acoustic Sensing. *in preparation*.
+Li, C., **M. Hu**, G. Ye, S. Wang, Y. Fu, Z. Pei, Z. Li (2026). 2D Near-Surface Shear Velocity Structure in Guangzhou Metro Tunneling Area from Distributed Acoustic Sensing. *in preparation*.
 
 <u>Published papers:</u>
 
-[2] **Hu, M.**, and Z. Li\* (2025). Rapid Fault Detection in Terrestrial and Submarine Environments with Fiber-Optic Sensing (in Chinese). *Chin. Sci. Bull.-Chin.*. \[胡敏哲, 李泽峰. 基于分布式光纤振动传感的陆地和海底断层快速探测. *科学通报*\]. [[LINK]](https://www.sciengine.com/CSB/doi/10.1360/CSB-2025-0624)
+[3] Hong, H.\*, **M. Hu**, J. Liu, B. Wang, L. Lu, and N. Xiang (2026). DASView: A PyQt-Based Visualization Tool for Distributed Acoustic Sensing Data. *Seismol. Res. Lett.*, Accepted.
+
+[2] **Hu, M.**, and Z. Li\* (2025). Rapid Fault Detection in Terrestrial and Submarine Environments with Fiber-Optic Sensing (in Chinese). *Chin. Sci. Bull.-Chin.*, 70 (32). \[胡敏哲, 李泽峰. 基于分布式光纤振动传感的陆地和海底断层快速探测. *科学通报*, 70 (32)\]. [[LINK]](https://www.sciengine.com/CSB/doi/10.1360/CSB-2025-0624)
 
 [1] **Hu, M.**, and Z. Li\* (2024). DASPy: A Python Toolbox for DAS Seismology, *Seismol. Res. Lett.*,  95 (5): 3055–3066. [[LINK]](https://pubs.geoscienceworld.org/ssa/srl/article/95/5/3055/645865/DASPy-A-Python-Toolbox-for-DAS-Seismology)
 
