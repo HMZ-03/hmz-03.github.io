@@ -23,7 +23,7 @@ Publications
 
 Han, X., **M. Hu**, X. Cui, and Z. Li\* (2026). Lander resonance in response to wind and marsquakes as possible origin of InSight's 2.4 Hz seismic noise. *under review*.
 
-Li, C., **M. Hu**, G. Ye, S. Wang, Y. Fu, Z. Pei, Z. Li (2026). 2D Near-Surface Shear Velocity Structure in Guangzhou Metro Tunneling Area from Distributed Acoustic Sensing. *submitted*.
+Li, C., **M. Hu**, G. Ye, S. Wang, Y. Fu, Z. Pei, H. Yao, Z. Li\* (2026). 2D Near-Surface Shear Velocity Structure in Guangzhou Metro Tunneling Area from Distributed Acoustic Sensing. *submitted*.
 
 Pei, Z., **M. Hu**, S. Wang, Y. Fu, and Z. Li\* (2026). Deep Clustering of Distributed Acoustic Sensing Signals for Tunneling Monitoring. *in preparation*.
 
