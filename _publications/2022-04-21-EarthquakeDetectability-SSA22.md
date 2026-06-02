@@ -3,7 +3,7 @@ title: "Local Earthquake Detectability Using Long-haul Fiber Cables With DAS Tec
 collection: publications
 category: conferences
 permalink: /publications/2022-04-21-EarthquakeDetectability-SSA22
-excerpt: 'Xiaowei Chen, John McKnight, Yanlan Hu, **Minzhe Hu**, Zefeng Li,Raymond Ng, Pranshu Ratre, Zhongwen Zhan, Deepankar Dangwal and Zhuobo Wang'
+excerpt: 'Xiaowei Chen, John McKnight, Yanlan Hu, **Minzhe Hu**, Zefeng Li, Raymond Ng, Pranshu Ratre, Zhongwen Zhan, Deepankar Dangwal and Zhuobo Wang'
 date: 2022-04-21
 venue: 'SSA 2022 Annual Meeting'
 ---
