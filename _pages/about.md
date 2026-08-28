@@ -27,9 +27,11 @@ Li, C., **M. Hu**, G. Ye, S. Wang, Y. Fu, Z. Pei, H. Yao, Z. Li\* (2026). 2D Nea
 
 Pei, Z., **M. Hu**, S. Wang, Y. Fu, and Z. Li\* (2026). Deep Clustering of Distributed Acoustic Sensing Signals for Tunneling Monitoring. *in preparation*.
 
+Hong, H.\*, **M. Hu**, Y. Sheng\*, H. Song, X. Han, B. Wang, Z. Li, H. Yao, J. Liu\* (2026). Seafloor fiber arrays resolve storm-wave pathways into microseisms. *to be submitted*.
+
 <u>Published papers:</u>
 
-[3] Hong, H.\*, **M. Hu**, J. Liu, B. Wang, L. Lu, and N. Xiang (2026). DASView: A PyQt-Based Visualization Tool for Distributed Acoustic Sensing Data. *Seismol. Res. Lett.*, Accepted.
+[3] Hong, H.\*, **M. Hu**, J. Liu, B. Wang, L. Lu, and N. Xiang (2026). DASView: A PyQt-Based Visualization Tool for Distributed Acoustic Sensing Data. *Seismol. Res. Lett.*. [[LINK]](https://pubs.geoscienceworld.org/ssa/srl/article-abstract/doi/10.1785/0220250438/752590/DASView-A-PyQt-Based-Visualization-and-Processingy)
 
 [2] **Hu, M.**, and Z. Li\* (2025). Rapid Fault Detection in Terrestrial and Submarine Environments with Fiber-Optic Sensing (in Chinese). *Chin. Sci. Bull.-Chin.*, 70 (32). \[胡敏哲, 李泽峰. 基于分布式光纤振动传感的陆地和海底断层快速探测. *科学通报*, 70 (32)\]. [[LINK]](https://www.sciengine.com/CSB/doi/10.1360/CSB-2025-0624)
 
